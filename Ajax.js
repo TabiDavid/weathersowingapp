@@ -60,7 +60,7 @@ var Months = ['January', 'Febrary', 'March', 'April', 'May', 'Jun', 'July',
 
 
     if (month == 11 && dayOfMonth == 18 || month == 11 && dayOfMonth == 19 || month == 11 && dayOfMonth == 26){
-    text = ("To day " + Months[month] + ", " + dayofMonth + " "+ "Do not Sowing and Planting: <br> MOON IS NOT IN THE RIGHT POSITION");
+    text = ("To day " + Months[month] + ", " + dayOfMonth + " "+ "Do not Sowing and Planting: <br> MOON IS NOT IN THE RIGHT POSITION");
     }
     else if (dayOfMonth == 20 || dayOfMonth == 21 || dayOfMonth == 23) {
     text = ("TO DAY " + Months[month] + " " + dayOfMonth + ", " + year + " " + "FULL MOON <br> Sowing and planting")
