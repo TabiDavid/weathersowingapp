@@ -59,7 +59,6 @@ var Months = ['January', 'Febrary', 'March', 'April', 'May', 'Jun', 'July',
 'August', 'September', 'October', 'November', 'December'];
 
 
-
     if (month == 11 && dayOfMonth == 18 || month == 11 && dayofMonth == 19 || month == 11 && dayOfMonth == 26){
     text = ("To day " + Months[month] + ", " + dayOfMonth + " "+ "Do not Sowing and Planting: <br> MOON IS NOT IN THE RIGHT POSITION");
     }

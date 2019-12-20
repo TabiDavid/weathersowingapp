@@ -96,7 +96,6 @@ border-radius: 50%;
     transform: translate(-50%, -50%) rotate(-67.5deg);
 
 }
-
 @keyframes animate{
     0%{
 transform: rotate(0deg);
