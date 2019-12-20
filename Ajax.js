@@ -48,7 +48,7 @@ if(localStorage.storedList){
 
 
 
-  function applySleep() {
+  function applySleep(){
   
     var dayOfWeek = new Date().getDay();
     var month = new Date().getMonth();
